@@ -1,0 +1,98 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Qualig-Widget\n"
+"POT-Creation-Date: 2019-12-27 12:59+0100\n"
+"PO-Revision-Date: 2019-12-30 09:17+0100\n"
+"Last-Translator: Thomas <info@jordanonline.de>\n"
+"Language-Team: info@qualigo.com\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Qualigo Banner as Widget"
+msgstr ""
+
+msgid "Qualigo-Widget"
+msgstr ""
+
+msgid ""
+"IMPORTANT NOTICE: in order to assign banner ads, you have to enter your "
+"publisher ID, which you receive after registration at qualigo.com! As a SUB-"
+"ID you can choose your own text (without spaces and special characters)."
+msgstr ""
+
+msgid "Publisher-Id"
+msgstr ""
+
+msgid "Sub.-ID"
+msgstr ""
+
+msgid "Keyword"
+msgstr ""
+
+msgid "Banner-Format"
+msgstr ""
+
+msgid "Title-Color"
+msgstr ""
+
+msgid "Text-Color"
+msgstr ""
+
+msgid "Link-Color"
+msgstr ""
+
+msgid "Background-Color"
+msgstr ""
+
+msgid "Border-Color"
+msgstr ""
+
+msgid "120x600 Skyscraper"
+msgstr ""
+
+msgid "125x125 Button"
+msgstr ""
+
+msgid "160x300 Wide Skyscraper (half)"
+msgstr ""
+
+msgid "160x600 Wide Skyscraper"
+msgstr ""
+
+msgid "200x200 Small Square"
+msgstr ""
+
+msgid "234x60 Half Banner"
+msgstr ""
+
+msgid "250x250 Square"
+msgstr ""
+
+msgid "300x250 Medium Rectangle"
+msgstr ""
+
+msgid "336x280 Large Rectangle"
+msgstr ""
+
+msgid "468x60 Banner"
+msgstr ""
+
+msgid "600x505 Banner"
+msgstr ""
+
+msgid "728x90 Leaderboard"
+msgstr ""
+
+msgid "728x200 Large Leaderboard"
+msgstr ""
+
+msgid "728x310 Large Leaderboard"
+msgstr ""
+
+msgid "728x595 Banner"
+msgstr ""
